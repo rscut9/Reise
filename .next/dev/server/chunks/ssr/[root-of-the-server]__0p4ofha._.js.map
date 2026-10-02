@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/RScut/OneDrive/Escritorio/Proyectos/Reise/app/page.tsx"],"sourcesContent":["import TravelMap from '../components/travel-map';\n\nexport default function Home() {\n  return <TravelMap />;\n}\n"],"names":["Home","TravelMap"],"mappings":";;;;;;;;;;;;AAEe,SAASA;IACtB,qBAAO,6VAACC;;;;;AACV"}}]
+}

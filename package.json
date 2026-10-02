@@ -1,0 +1,32 @@
+{
+  "name": "viajes",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@cublya/world-atlas": "latest",
+    "@maptiler/sdk": "latest",
+    "@supabase/supabase-js": "latest",
+    "@turf/boolean-point-in-polygon": "latest",
+    "@turf/point-on-feature": "latest",
+    "countries-list": "latest",
+    "i18n-iso-countries": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "topojson-client": "latest"
+  },
+  "devDependencies": {
+    "@types/geojson": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/topojson-client": "latest",
+    "@vitejs/plugin-react": "latest",
+    "typescript": "latest",
+    "vite": "latest"
+  }
+}

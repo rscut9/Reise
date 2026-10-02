@@ -1,0 +1,3 @@
+{
+  "/api/boundaries/[iso]/route": "app/api/boundaries/[iso]/route.js"
+}
